@@ -1,3 +1,3 @@
 # smiley
 
-https://github.com/PMIglesias/smiley
+https://pmiglesias.github.io/smiley
